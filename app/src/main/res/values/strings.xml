@@ -1,7 +1,25 @@
 <resources>
 
-    <string name="app_name">Wayvo</string>
+    <string name="app_name">TravelGo</string>
 
     <string name="login">Iniciar sesión</string>
+    <string name="register">Registrarse</string>
+
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+
+    <string name="name">Nombre</string>
+
+    <string name="destination">Destino</string>
+    <string name="country">País</string>
+    <string name="price">Precio</string>
+    <string name="description">Descripción</string>
+
+    <string name="save">Guardar</string>
+    <string name="update">Actualizar</string>
+    <string name="delete">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="select_image">Seleccionar imagen</string>
 
 </resources>
